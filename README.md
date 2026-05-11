@@ -2,7 +2,7 @@
 支持任意SAI2版本以及任意绘画软件；Supports any version of SAI2 and any painting software
 
 Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.com/video/BV16J576WE8t)
-# 作者：[茶清墨刂](https://space.bilibili.com/388428308) & DeepSeek
+# 作者：[茶清墨刂](https://space.bilibili.com/388428308) & DeepSeek & Trae
 
 [GitHub资源页&更新说明](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/releases)
 
