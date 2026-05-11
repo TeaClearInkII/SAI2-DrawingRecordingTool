@@ -33,7 +33,7 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 - 窗口选择：支持选择主窗口和子窗口（导航器）进行录制
 - 录制控制：开始录制 / 暂停录制 / 继续录制 / 停止录制
 - 区域裁剪：支持角放大镜定位、键盘方向键微调裁剪区域
-- 视频合成：支持 XVID/MJPG/DIB/DIVX/mp4v 编码器，内置 ffmpeg
+- 视频合成：支持 XVID/MJPG/DIB/DIVX/mp4v 编码器，内置 FFmpeg
 - 历史管理：录制历史窗口，支持日历视图和统计汇总
 - 分辨率缩放：原始分辨率 / 百分比缩放 / 固定宽度输出
 - 配置记忆：自动记住窗口选择和裁剪配置
@@ -46,7 +46,7 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 - 恢复录制：可在已有录制后继续追加新帧
 
 【合成视频编码器】
-- ffmpeg H.264 ★最佳：压缩率最高，兼容性最好
+- FFmpeg H.264 ★最佳：压缩率最高，兼容性最好
 - XVID(.avi) ★推荐：兼容性极佳，系统播放器直接播放
 - MJPG(.avi)：高兼容性，画质好，文件较大
 - DIB(.avi) 无损：未压缩原始视频，100%兼容，文件很大
@@ -64,12 +64,12 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 
 【第三方开源组件许可证】
 本软件使用了以下开源组件：
-- ffmpeg：LGPL 2.1+ 开源许可证
+- FFmpeg：LGPL 2.1+ 开源许可证
   官网：https://ffmpeg.org/
-  本软件内置的 ffmpeg 用于视频编码功能。
-  根据 LGPL 许可证要求，ffmpeg 的源代码可在上述官网获取。
+  本软件内置的 FFmpeg 用于视频编码功能。
+  根据 LGPL 许可证要求，FFmpeg 的源代码可在上述官网获取。
   本软件用户有权在使用本软件的同时：
-  · 获得 ffmpeg 的源代码
-  · 修改 ffmpeg 以满足个性化需求
-  · 重发布 ffmpeg（需遵循 LGPL 条款）
-  LGPL 详情请参阅：https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+  · 获得 FFmpeg 的源代码
+  · 修改 FFmpeg 以满足个性化需求
+  · 重发布 FFmpeg（需遵循 LGPL 条款）
+  LGPL 详情请参阅：https://ffmpeg.cpp.org.cn/legal.html
