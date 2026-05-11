@@ -11,6 +11,10 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 # 捐赠&支持-Donations&Support
 ⚡[爱发电](https://ifdian.net/a/TeaClearInkII)
 
+# 界面展示
+![主界面展示](./主界面展示.png)
+![录制历史与打卡日历界面展示](./录制历史与打卡日历界面展示.png)
+
 # 使用说明
 
 ！！！请不要将录制窗口最小化！！！
