@@ -5,6 +5,7 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 # 作者：[茶清墨刂](https://space.bilibili.com/388428308) & DeepSeek
 
 [GitHub资源页](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/releases)
+
 [123云盘](https://1818650178.share.123865.com/123pan/gjihjv-NfVad)
 
 # 捐赠&支持-Donations&Support
