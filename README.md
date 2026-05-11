@@ -1,4 +1,4 @@
-# SAI2-DrawingRecordingTool
+# SAI2-DrawingRecordingTool-绘画录制工具
 支持任意SAI2版本以及任意绘画软件；Supports any version of SAI2 and any painting software
 
 Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.com/video/BV16J576WE8t)
