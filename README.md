@@ -8,6 +8,10 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 
 [123云盘](https://1818650178.share.123865.com/123pan/gjihjv-NfVad)
 
+[GitHub仓库](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool)
+
+[反馈](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/issues)
+
 # 捐赠&支持-Donations&Support
 ⚡[爱发电](https://ifdian.net/a/TeaClearInkII)
 
