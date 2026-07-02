@@ -8,6 +8,8 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 
 [123云盘](https://1818650178.share.123865.com/123pan/gjihjv-NfVad)
 
+[夸克云盘](https://pan.quark.cn/s/741112689264)
+
 [GitHub仓库](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool)
 
 [反馈](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/issues)
@@ -16,6 +18,8 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 1. [哔哩哔哩⚡️充电](https://space.bilibili.com/388428308)
 
 2. 软件内附二维码
+![茶清墨刂微信收款码](./茶清墨刂微信收款码.png)
+![茶清墨刂支付宝收款码](./茶清墨刂支付宝收款码.jpg)
 
 # 界面展示
 ![主界面展示](./主界面展示.png)
