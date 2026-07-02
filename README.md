@@ -18,8 +18,7 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 1. [哔哩哔哩⚡️充电](https://space.bilibili.com/388428308)
 
 2. 软件内附二维码
-<img src="./茶清墨刂微信收款码.png" alt="茶清墨刂微信收款码" style="width: 50%; height: auto;">
-<img src="./茶清墨刂支付宝收款码.jpg" alt="茶清墨刂支付宝收款码" style="width: 50%; height: auto;">
+<img src="./茶清墨刂微信收款码.png" alt="茶清墨刂微信收款码" style="width: 30%; height: auto;"><img src="./茶清墨刂支付宝收款码.jpg" alt="茶清墨刂支付宝收款码" style="width: 30%; height: auto;">
 
 # 界面展示
 ![主界面展示](./主界面展示.png)
