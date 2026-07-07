@@ -1,3 +1,26 @@
+v0.3.9.0 --2026.07.08--
+
+您好，正在不知用户死活地频繁更新软件！
+
+！！！更新软件下载和安装方式，改为获取下载链接，跳转到浏览器下载。下载后的是安装包的压缩包，可以识别旧的安装路径进行更新了！！！
+！重要：本次由于修改了下载获取链接的生成格式，如果在软件中获取下载本版本，需要手动复制以下链接，因为之前的版本获取不到本版本真实的地址，在之后的软件可以正常获取链接：
+https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/releases/download/v0.3.9.0/SAI2_DrawingRecordingTool_Win_Setup_v0.3.9.0_TeaClearInkII.exe
+
+下载链接格式已变更：
+旧格式：SAI2-DrawingRecordingTool-v{版本}-TeaClearInkII.7z（旧版软件仍使用此格式）
+新格式：SAI2_DrawingRecordingTool_Win_Setup_v{版本}_TeaClearInkII.exe
+
+如果遇到下载链接无法使用，请手动前往发布页下载：
+https://teaclearinkii.github.io/SAI2-DrawingRecordingTool/
+
+1. 修复了在被录制窗口被关闭后重新自动恢复的窗口没有恢复到被选中的子窗口的问题
+2. 优化了记录窗口位置大小的操作，现在可以在选中子窗口时点击记录窗口位置了
+3. 修复在关闭软件时有概率错误提示无法删除临时文件的BUG
+
+- 看在茶茶优化和写更新日志这么勤快的样子，给茶茶赞助买杯果茶吧~求你了求你了~
+
+------------------------------------------------------------
+
 v0.3.8.9 --2026.07.07--
 
 1. 抱歉忘记测试了，修复了悬浮窗预览窗口未适配子窗口内容的问题
