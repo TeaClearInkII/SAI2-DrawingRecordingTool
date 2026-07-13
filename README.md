@@ -10,6 +10,8 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 
 [夸克云盘](https://pan.quark.cn/s/741112689264)
 
+[更新日志](https://teaclearinkii.github.io/SAI2-DrawingRecordingTool/changelog.txt)
+
 [GitHub仓库](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool)
 
 [反馈](https://github.com/TeaClearInkII/SAI2-DrawingRecordingTool/issues)
@@ -26,19 +28,20 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 
 # 使用说明
 
-！！！请不要将录制窗口最小化！！！
+！！！请不要将被录制窗口最小化！！！
 
 1. "其它"→"设置"→"首选项"→"导航器"设置最大分辨率4096、隐藏参考线
 
 2. 在SAI2界面上找到"窗口"→"分离操作面板"→"分离导航器"
 
-3.将导航器拉伸到画布合适大小（因SAI2本身问题，请使用本软件的"还原功能"在下次启动自动恢复窗口）
+3.将导航器拉伸到画布合适大小（因SAI2本身问题，请使用本软件的"还原功能"在下次启动自动恢复窗口位置和大小）
 
 4.软件中选中导航器并裁剪合适大小
 
 5.将导航器放到边边角角上不影响观看画面
 
-推荐使用 PotPlayer 视频播放器
+！如果视频无法播放，推荐使用 PotPlayer 视频播放器！
+！在剪辑软件中是可以正常播放剪辑的！
 
 【功能介绍】
 - 窗口选择：支持选择主窗口和子窗口（导航器）进行录制
