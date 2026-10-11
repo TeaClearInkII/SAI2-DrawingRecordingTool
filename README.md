@@ -60,6 +60,7 @@ Bilibili视频Video：[【推荐】SAI2绘画录制工具](https://www.bilibili.
 - 恢复录制：可在已有录制后继续追加新帧
 
 【合成视频编码器】
+- H.264 MP4 GPU加速，适合现代化绝大部分平台
 - MP4V(.mp4) FFmpeg★：压缩率最高，兼容性最好
 - XVID(.avi) ★推荐：兼容性极佳，系统播放器直接播放
 - MJPG(.avi)：高兼容性，画质好，文件较大
